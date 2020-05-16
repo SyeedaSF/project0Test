@@ -1,2 +1,3 @@
-# project0Test
-test pour le project0 cs50
+# Project 0
+
+Web Programming with Python and JavaScript
