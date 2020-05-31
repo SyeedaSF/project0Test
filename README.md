@@ -8,16 +8,40 @@ I have the project to create some little applications integrated in my website t
 
 For project0, I gonna make a try about doing a little preview of what could have been my blog.
 Here are the contents I plan to create :
-- a welcoming page with "news" article, and a pressentation of the differents parts
+- a welcoming page with "news" article, and a presentation of the different parts
 - a file with ear exercise, with link to the songs
-- A list of exercises on the fourth for jazz pracice
+- A list of exercises on the fourth for jazz practice
 - an analyse of a solo, with image of the solo and possibility to download the file
 - an About page : Some precisions about myself
 
-Requirements of the project0 validation and where to find them :
-
-
-    Your stylesheets and at least one use of SCSS inheritance.
-    In README.md, include a short writeup describing your project, what’s contained in each file, and (optionally) any other additional information the staff should know about your project.
-
-    #f2f2f2
+Here are the files of my folder :
+- 7thm_Page_1 :
+Image file view from 7thm.html, first sheet of exercise of ear training.
+- 7thm_Page_2 :
+Image file view from 7thm.html, second sheet of exercise of ear training.
+- 7thm.html :
+The page about the ear training exercise. It show two images, one table with multiple links and offer a link to download a file.
+- 7thm.pdf :
+The page that can be download on the 7thm.html page.
+- about.html :
+A page about my project, with a two columns bootstrap layout.
+- fourth.html :
+A page about an interval exercise. It contains text and show one image.
+- FourthExercises.jpg :
+The image showed in the fourth.html page.
+- index.html :
+The main page of the website. It contains multiple links to all of the website.
+- jazz.html :
+A page that links to other articles on the website, fourth.html and therwillneverbe.html.
+- MémoirePMartinetFMJa
+A file that can be download on the page therewillneverbe.html
+- pedagogy.html :
+A page that links to other articles on the website, 7thm.html.
+- style.css :
+The css version of the style sheet.
+- style.scss :
+The scss version of the style sheet.
+- therewillneverbe :
+A page that show a youtube player, a pdf and a downloadable file.
+- TherewillneverbeanotheryouAnalyse :
+The pdf that can be viewed in the therewillneverbe.html page.
